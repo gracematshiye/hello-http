@@ -13,6 +13,10 @@ Now, the web server has started running. Open your favorite web browser and go t
 http://localhost:3000
 
 
+## Now you can run it like this, reload the webpage:
+$ lein ring server
+
+
 
 ## Usage
 
