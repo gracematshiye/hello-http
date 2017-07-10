@@ -16,6 +16,12 @@ http://localhost:3000
 ## Now you can run it like this, reload the webpage:
 $ lein ring server
 
+	-------------------------------
+Once the web server starts up, the web page pops up and shows the words in the core2.clj.
+
+Change the words in core2.clj and reload the page on the browser. You’ll see the change is reloaded.
+
+	-------------------------------
 
 
 ## Usage
